@@ -1,9 +1,8 @@
 package game;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 import logic.*;
+
+import java.util.ArrayList;
 
 public class DeckManager {
 	
